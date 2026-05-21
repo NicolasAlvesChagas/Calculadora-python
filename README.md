@@ -41,7 +41,7 @@ chmod +x calculadora_sh.sh
 4. Execute o script:
 ```
 ./calculadora_sh.sh
-
+```
 
 ---
 
